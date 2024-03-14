@@ -47,10 +47,41 @@ Ejercicio 48
 En este caso podemos ver que es una complejidad temporal de O(n^2), debido a que se tiene que ejecutar dos veces n que seria i, siendo ejecutado primero una vez y de ahi volviendose a ejecutar otra vez.El problema es que al ser la complejidad asi los tiempos no dan por que se tendrian que multiplicar por 100 y no daria esos tiempos
 
 Ejercicio 49
+La verdad que este no lo entendi pero de lo que busque es la definicion temporal de la expresion big o.
+
+Paloma so te soy sincero a partir de aca no entiendo nada, me parece que esta dificil de entender porque ya se escapa de mi conocimiento. El 50 y 51 no los hice por lo mismo.
+
 Ejercicio 50
+
 Ejercicio 51
 
 Ejercicio 52
+La complejidad temporal de este codigo es O((log n)^2)
+
 Ejercicio 53
+En este caso si puede variar la complejidad, como he explicado antes en el peor caso se supone que es O(n), pero cuando tenemos una lista ordenada se puede usar una busqueda binaria y su complejidad seria O(log n).
+
 Ejercicio 54
+1.20ns
+2.1000ns
+3.2000ns
+4.1000000ns
+5.10^7
+6.10000ns
+
+1.50ns
+2.1ms
+3.5ms
+4.100s
+5.10^31
+6.10ms
+
+1.5ms
+2.100s
+3.500s
+4.10000000s
+5.10^37s
+6.1000s
+
 Ejercicio 55
+El problema por el cual no se puede dictaminar una partida perfecta a traves de la programacion es debido a la gran cantidad de combinaciones posibles en una partida de ajedrez, siendo incluso mayores a la cantidad de los electrones del universo. Por lo que seria practicamente imposible hoy en dia poder procesar esa cantidad de datos para generar una partida perfecta.
